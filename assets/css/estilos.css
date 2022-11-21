@@ -27,10 +27,16 @@ a img{
 }
 
 /* Contacto */
+#Contacto{
+  background-color: blue;
+  background-size: 100%;
+  
 
+}
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
+
 }
 
 @media (max-width: 768px) {
@@ -42,4 +48,8 @@ a img{
     width: 100px;
   }
 
+}
+footer{
+  background-color: #373a3c;
+  
 }
