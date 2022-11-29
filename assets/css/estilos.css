@@ -11,7 +11,7 @@ a img{
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("/assets/img/thumb-1920-380264.png");
+  background-image: url("assets/img/thumb-1920-380264.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
